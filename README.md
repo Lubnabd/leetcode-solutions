@@ -108,3 +108,15 @@ npm run lint-test     Test all code is linted properly
 ```
 
 #### And that should be it! Get Hacking...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Lubnabd/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Lubnabd/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
